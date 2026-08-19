@@ -2,6 +2,15 @@
 
 [Claude Code Playbook](https://docs.claude-hunt.com) 강의의 실습용 저장소입니다. Next.js 와 shadcn/ui 로 시작하는 작은 Todo 앱을 단계별로 발전시키며 Claude Code 사용법을 익힙니다.
 
+## 주요 기능
+
+- 할 일 추가 / 수정 / 삭제 / 완료 토글
+- 키워드로 할 일 검색
+- 상태(전체/진행 중/완료)별 필터링
+- 카테고리별 필터링
+- 생성일 등 기준 정렬
+- 라이트/다크 모드 전환 (`d` 키로 토글)
+
 ## 관련 링크
 
 - 강의 본문: https://docs.claude-hunt.com
